@@ -2,7 +2,6 @@
 
 Jogo educacional 2D desenvolvido em **Unity (C#)** com o objetivo de ensinar conceitos de **biologia e imunologia** para estudantes do ensino médio de forma interativa e divertida.
 
-> ⚠️ Repositório ainda com o nome antigo `biologia_top_down` — renomeação pendente.
 
 📌 Sobre o projeto
 
